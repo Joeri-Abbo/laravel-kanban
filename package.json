@@ -13,7 +13,7 @@
     "@tailwindcss/forms": "^0.5.3",
     "@vitejs/plugin-vue": "^4.0.0",
     "autoprefixer": "^10.4.12",
-    "axios": "^1.1.2",
+    "axios": "^1.7.7",
     "eslint": "^8.35.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
@@ -21,11 +21,11 @@
     "husky": "^8.0.3",
     "laravel-vite-plugin": "^0.7.2",
     "lint-staged": "^13.1.2",
-    "postcss": "^8.4.18",
+    "postcss": "^8.4.47",
     "prettier": "^2.8.4",
     "pretty-quick": "^3.1.3",
     "tailwindcss": "^3.2.1",
-    "vite": "^4.0.0",
+    "vite": "^4.5.5",
     "vue": "^3.2.41"
   },
   "dependencies": {
